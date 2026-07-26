@@ -12,14 +12,6 @@ venv/
 # VS Code
 .vscode/
 
-# Model files
-*.h5
-*.keras
-*.pt
-*.pth
-*.onnx
-models/
-
 # Project Specific Data & Outputs
 dataset/
 outputs/
