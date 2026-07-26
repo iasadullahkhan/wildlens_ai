@@ -1,0 +1,12 @@
+common_leopard
+grey_langur
+jackal
+jungle_cat
+kalij_pheasant
+leopard_cat
+mongoose
+porcupine
+red_fox
+rhesus_macaque
+snow_leopard
+wild_boar
